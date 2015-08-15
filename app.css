@@ -1,0 +1,28 @@
+.online-avatar {
+    width: 40px;
+    height: auto;
+}
+
+p {
+    display: inline;
+    vertical-align: 15px;
+    font-family: sans-serif;
+    margin-left: 8px;
+}
+ul{
+    padding: 0;
+    list-style: none;
+}
+
+li{
+    width: 180px;
+    cursor: pointer;
+}
+
+
+.container{
+    width:  400px;
+    height: 400px;
+    margin: auto auto;
+    background: lightblue;
+}
